@@ -197,7 +197,6 @@ SELECT * FROM asadproject.schemaproject.gold_weather_daily;
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Mohammad Asad Sheikh**  
-Aspiring Data Engineer  
+**Asad Sheikh**   
 📧 Email: masad03sheikh@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/madasad-sheikh 
