@@ -144,27 +144,27 @@ These limits are example values and can be replaced with the limits your site or
 
 **Azure Data Factory pipeline**
 
-![ADF Pipeline](screenshots/01_adf_pipeline_png.png)
+![ADF Pipeline](screenshots/01_adf_pipeline.png.png)
 
 **Pipeline run: both Copy activities succeeded**
 
-![ADF Run](screenshots/02_adf_run_succeeded_png.png)
+![ADF Run](screenshots/02_adf_run_succeeded.png.png)
 
 **ADLS Gen2 containers**
 
-![ADLS Containers](screenshots/03_adls_containers_png.png)
+![ADLS Containers](screenshots/03_adls_containers.png.png)
 
 **Databricks tables in Unity Catalog**
 
-![Databricks Tables](screenshots/04_databricks_tables_png.png)
+![Databricks Tables](screenshots/04_databricks_tables.png.png)
 
 **Silver table output (hourly)**
 
-![Silver Output](screenshots/05_silver_output_png.png)
+![Silver Output](screenshots/05_silver_output.png.png)
 
 **Gold table output (daily)**
 
-![Gold Output](screenshots/06_gold_output_png.png)
+![Gold Output](screenshots/06_gold_output.png.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
