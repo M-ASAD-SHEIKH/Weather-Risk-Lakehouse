@@ -1,4 +1,4 @@
-#  Weather Data Pipeline – Azure Data Factory, ADLS Gen2 & Databricks
+# Weather Risk Lakehouse– Azure Data Factory, ADLS Gen2 & Databricks
 
 _Turning hourly weather API data into clean, queryable Delta tables with daily safety risk flags, using Azure Data Factory, PySpark, and Databricks._
 
